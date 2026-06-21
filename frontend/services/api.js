@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-    baseURL: import.meta.env.VITE_API_URL || "https://nexus-backend.onrender.com/api",
+    baseURL: "https://YOUR-RAILWAY-BACKEND-URL.railway.app/api"
 });
 
 // Request Interceptor: Attach token automatically

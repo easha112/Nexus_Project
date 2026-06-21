@@ -10,7 +10,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "proxy": "http://localhost:5000",
     "axios": "^1.6.7",
     "date-fns": "^3.6.0",
     "lucide-react": "^0.344.0",

@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-    baseURL: "https://YOUR-RAILWAY-BACKEND-URL.railway.app/api"
+    baseURL: "https://noble-spirit-production-f5f4.up.railway.app/api"
 });
 
 // Request Interceptor: Attach token automatically

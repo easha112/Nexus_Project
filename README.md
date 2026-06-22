@@ -1,10 +1,10 @@
-# 🚀 Nexus Project
+#  Nexus Project
 
 A full-stack MERN application with authentication, real-time communication, and document/meeting management features.
 
 ---
 
-## 📌 Features
+##  Features
 
 - User Authentication (Login / Register with JWT)
 - Secure Password Hashing
@@ -18,7 +18,7 @@ A full-stack MERN application with authentication, real-time communication, and 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -36,7 +36,7 @@ A full-stack MERN application with authentication, real-time communication, and 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 Nexus_Project/
 │
 ├── backend/
@@ -53,7 +53,7 @@ Nexus_Project/
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 - Frontend: Vercel / Railway
 - Backend: Railway
@@ -61,7 +61,7 @@ Nexus_Project/
 
 ---
 
-## ⚙️ Environment Variables
+##  Environment Variables
 
 ### Backend (.env)
 
@@ -72,7 +72,7 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## ▶️ How to Run Locally
+## How to Run Locally
 
 ### Backend
 
@@ -92,22 +92,12 @@ npm run dev
 
 ---
 
-## 📡 API Base URL
+## API Base URL
 
 
 https://your-backend-url.railway.app/api
 
 
----
+## License
 
-## 👨‍💻 Author
-
-- Name: Your Name
-- Internship Project: Nexus System
-- Role: Full Stack Developer
-
----
-
-## 📜 License
-
-This project is for educational/internship purposes.
+This project is for educational purposes.
